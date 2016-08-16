@@ -53,7 +53,7 @@
 #define _ASSERTE(x) assert(x)
 
 // No SAL on non Windows platforms
-#include "cpprest/details/nosal.h"
+#include "nosal.h"
 
 #if not defined __cdecl
 #if defined cdecl
