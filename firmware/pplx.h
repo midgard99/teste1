@@ -48,7 +48,7 @@
 #endif
 #endif
 
-#include "cpprest/details/cpprest_compat.h"
+#include "cpprest_compat.h"
 
 // Use PPLx
 #ifdef _WIN32
