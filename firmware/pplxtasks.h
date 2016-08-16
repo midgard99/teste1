@@ -51,7 +51,7 @@ namespace Concurrency {
 #endif // _MSC_VER >= 1900
 #else
 
-#include "pplx/pplx.h"
+#include "pplx.h"
 
 #if defined(__ANDROID__)
 #include <jni.h>
