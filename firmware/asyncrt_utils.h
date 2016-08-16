@@ -32,7 +32,7 @@
 #include <random>
 #include <locale.h>
 
-#include "pplx/pplxtasks.h"
+#include "pplxtasks.h"
 #include "basic_types1.h"
 
 #if !defined(_WIN32) || (_MSC_VER >= 1700)
