@@ -17,7 +17,7 @@
 
 #pragma once
 
-#include "cpprest/http_client.h"
+#include "http_client.h"
 
 #include "common.h"
 

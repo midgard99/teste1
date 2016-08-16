@@ -17,10 +17,10 @@
 
 #pragma once
 
-#include "cpprest/http_client.h"
+#include "http_client.h"
 
-#include "wascore/basic_types.h"
-#include "wascore/constants.h"
+#include "basic_types.h"
+#include "constants.h"
 
 namespace azure { namespace storage {
 
